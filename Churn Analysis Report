@@ -1,0 +1,32 @@
+📋 Costco Membership Churn Analysis – Summary Report
+
+🎯 Overall Churn Rate
+•	26.6% of Costco members have churned, indicating more than 1 in 4 members are leaving.
+•	This is a substantial loss rate with significant financial implications.
+________________________________________
+🧍‍♂️ Demographic Factors
+•	Senior Citizens churn 15% more often than non-seniors, suggesting age-specific needs or dissatisfaction.
+•	Members without partners or dependents show higher churn, potentially indicating less household value perception or loyalty.
+________________________________________
+📡 Service Usage & Churn
+•	Lack of Online Security, Tech Support, and Device Protection services is strongly linked with higher churn.
+•	Members with Fiber Optic internet churn more than those with DSL, possibly due to price or reliability perceptions.
+•	Those not using streaming services also show higher churn, implying underutilization of features.
+________________________________________
+📝 Contract Type & Billing Preferences
+•	Month-to-month contracts have the highest churn rate, clearly indicating that long-term plans (1-2 years) reduce churn significantly.
+•	Paperless billing users churn more often, which may correlate with less engaged or more price-sensitive customers.
+•	Electronic check users are most likely to churn vs those on auto-payment methods (bank/credit card).
+________________________________________
+💰 Financial Impact
+•	Estimated monthly revenue loss due to churn: $121,000+.
+•	Total historical revenue lost from churned members exceeds $4.2 million, underscoring urgency for proactive retention strategies.
+________________________________________
+📊 Behavioral Patterns
+•	Short-tenure members (< 12 months) churn at the highest rate, indicating onboarding or early value perception issues.
+•	High churn is associated with low Total Charges, suggesting these members didn’t stay long enough to contribute much.
+________________________________________
+✅ Key Takeaways
+•	Focus retention efforts on new members, month-to-month contracts, and those not using key services.
+•	Consider promotions for annual contracts, boosting service feature engagement, and tailored outreach to seniors and isolated members.
+•	Examine the onboarding process and communication of service value early in membership.
